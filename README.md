@@ -1,6 +1,6 @@
 # Object-Detection-MobileNet
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)<br><br>
-Demonstration of Object Detection using MobileNets and OpenCV. 
+Demonstration of Object Detection using MobileNets and OpenCV. Load the appropriate input image by the name 'input'
 ## Description
 This project was made for detecting 20 different types of object such as "background", "aeroplane", "bicycle", "bird", "boat",
            "bottle", "bus", "car", "cat", "chair", "cow", "diningtable",
