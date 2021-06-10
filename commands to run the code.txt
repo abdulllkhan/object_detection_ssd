@@ -1,0 +1,2 @@
+python  image_object_detection.py -i ./image.jpeg -p ./MobileNetSSD_deploy.prototxt.txt  -m MobileNetSSD_deploy.caffemodel -c 0.2
+python video_object_detection.py -p ./MobileNetSSD_deploy.prototxt.txt -m ./MobileNetSSD_deploy.caffemodel
